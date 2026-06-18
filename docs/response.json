@@ -1,0 +1,29 @@
+[
+    {
+        "customerId": "CUST003",
+        "customerName": "Charlie",
+        "monthlyRewards": {
+            "JUNE": 0
+        },
+        "totalRewards": 0
+    },
+    {
+        "customerId": "CUST002",
+        "customerName": "Bob",
+        "monthlyRewards": {
+            "MAY": 70.00,
+            "APRIL": 10.00
+        },
+        "totalRewards": 80.00
+    },
+    {
+        "customerId": "CUST001",
+        "customerName": "Alice",
+        "monthlyRewards": {
+            "JUNE": 250.00,
+            "MAY": 25.00,
+            "APRIL": 90.00
+        },
+        "totalRewards": 365.00
+    }
+]
